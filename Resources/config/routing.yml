@@ -1,0 +1,3 @@
+request_lab_batch_homepage:
+    path:     /
+    defaults: { _controller: RequestLabBatchBundle:Default:index }

@@ -1,0 +1,4 @@
+services:
+#    request_lab_batch.example:
+#        class: RequestLab\BatchBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
